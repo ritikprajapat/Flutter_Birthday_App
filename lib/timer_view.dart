@@ -8,7 +8,7 @@ import 'package:lottie/lottie.dart';
 
 class TimerView extends StatefulWidget {
   final Birthday birthday;
-
+Riti
   const TimerView({
     Key? key,
     required this.birthday,
